@@ -3,3 +3,7 @@ Here are some projects that I've done to further my knowledge in programming. So
 - Swift
 - HTML
 - CSS
+- Java
+- Next.js
+- React
+- Flask
